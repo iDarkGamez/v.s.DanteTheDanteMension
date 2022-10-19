@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Unexpected",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Red Herring",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Glowing Fate",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "An Unexpected battle",
+	"weekName": "Week Dante",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
